@@ -108,5 +108,11 @@ To get started with this repository:
 3. Create the data base with the file pedidos.sql
 4. Run the SQL queries provided in this repository to practice and explore the data.
 
+### Author
+- **Name**: Rosalía González Caviedes
+- **Email**: rosaliagonzalezc@gmail.com
+- [LinkedIn profile](https://www.linkedin.com/in/rosaliagonzalezcaviedes/)
+- [Github profile](https://github.com/liagcaviedes)
+
 
 
